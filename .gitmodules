@@ -1,0 +1,3 @@
+[submodule "git-module-example-submodule"]
+	path = git-module-example-submodule
+	url = https://github.com/vladislav-arzybov/git-module-example-submodule.git
